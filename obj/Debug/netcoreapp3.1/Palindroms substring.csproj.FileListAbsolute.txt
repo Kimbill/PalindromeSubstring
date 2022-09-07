@@ -1,0 +1,13 @@
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.exe
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.deps.json
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.runtimeconfig.json
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.dll
+C:\Users\Decagon\source\repos\Palindroms substring\bin\Debug\netcoreapp3.1\Palindroms substring.pdb
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.dll
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.pdb
+C:\Users\Decagon\source\repos\Palindroms substring\obj\Debug\netcoreapp3.1\Palindroms substring.genruntimeconfig.cache
